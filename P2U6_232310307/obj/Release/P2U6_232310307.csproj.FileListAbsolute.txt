@@ -1,0 +1,11 @@
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\bin\Release\P2U6_232310307.exe.config
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\bin\Release\P2U6_232310307.exe
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\bin\Release\P2U6_232310307.pdb
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.Form1.resources
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.Login.resources
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.Properties.Resources.resources
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.csproj.GenerateResource.cache
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.exe
+C:\Users\viole\OneDrive\Documentos\UNIDAD 5\P2U6_232310307\obj\Release\P2U6_232310307.pdb
